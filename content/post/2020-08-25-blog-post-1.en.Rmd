@@ -1,0 +1,26 @@
+---
+title: Blog post 1
+author: Emi Tanaka
+date: '2020-08-25'
+slug: blog-post-1
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-25T17:42:30+10:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+# HEllo world
+
+```{r}
+plot(cars$speed, cars$dist)
+```
+
